@@ -1,5 +1,5 @@
-let name = "Guillermo";
-let name = "Alfredo";
-let name = "Isaias";
-let name = "Aaron";
-let name = "Andrea";
+let name = "Dilan";
+
+let edad = 35;
+
+let esMayor;
