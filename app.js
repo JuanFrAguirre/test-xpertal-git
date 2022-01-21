@@ -4,4 +4,4 @@ let edad = 35;
 
 let esMayor;
 
-let ola= "ola";
+let ola = "ola ola";
